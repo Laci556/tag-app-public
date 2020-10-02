@@ -1,0 +1,193 @@
+{
+  "from": "2020-09-28",
+  "to": "2020-10-30",
+  "2020-09-29": {
+    "a": [
+      "Zeller krémleves",
+      "Leves gyöngy",
+      "Barbecue csirkeragu",
+      "Bulgur",
+      "Alma"
+    ],
+    "b": []
+  },
+  "2020-09-28": {
+    "a": ["Reszelt tésztaleves", "Főtt tojás", "Parajmártás", "Főtt burgonya"],
+    "b": []
+  },
+  "2020-09-30": {
+    "a": [
+      "Babgulyás sertéshússal",
+      "Darás metélt",
+      "Gyümölcs öntet",
+      "Teljes kiőrlésű kenyér"
+    ],
+    "b": []
+  },
+  "2020-10-01": {
+    "a": [
+      "Citromos kerti leves",
+      "Resztelt csirkemáj",
+      "Tört burgonya",
+      "Csemege uborka"
+    ],
+    "b": ["Citromos kerti leves", "Bácskai rizses hús", "Csemege uborka"]
+  },
+  "2020-10-02": {
+    "a": [
+      "Kakukkfüves gombaleves",
+      "Rántott csirkecomb filé",
+      "Rizibizi",
+      "Vegyes saláta"
+    ],
+    "b": ["Kakukkfüves gombaleves", "Tejszínes húsos penne"]
+  },
+  "2020-10-06": {
+    "a": [
+      "Hagyma krémleves",
+      "Pirított zsemlekocka",
+      "Pincepörkölt",
+      "Csalamádé",
+      "Teljes kiőrlésű kenyér"
+    ],
+    "b": [
+      "Hagyma krémleves",
+      "Pirított zsemlekocka",
+      "Fűszeres sertés aprópecsenye",
+      "Lencsefőzelék",
+      "Teljes kiőrlésű kenyér"
+    ]
+  },
+  "2020-10-05": {
+    "a": [
+      "Hamis gulyásleves",
+      "Dinó szelet",
+      "Zöldborsófőzelék",
+      "Teljes kiőrlésű kenyér"
+    ],
+    "b": ["Hamis gulyásleves", "Rántott csirkemáj", "Párolt rizs", "Cékla"]
+  },
+  "2020-10-07": {
+    "a": [
+      "Frankfurti leves",
+      "Szilvatöltelékes gombóc",
+      "Fahéjas szórat",
+      "Alma"
+    ],
+    "b": ["Frankfurti leves", "Mákos metélt", "Alma"]
+  },
+  "2020-10-08": {
+    "a": ["Paradicsomleves", "Halpogácsa", "Kukoricás rizs", "Tzatziki saláta"],
+    "b": ["Paradicsomleves", "Bakonyi sertésragu", "Galuska"]
+  },
+  "2020-10-09": {
+    "a": ["Vegyes zöldségleves", "Vadas sertés ragu", "Makaróni tészta"],
+    "b": [
+      "Vegyes zöldségleves",
+      "Párizsi csirkecomb filé",
+      "Póréhagymás rizs",
+      "Vegyes saláta"
+    ]
+  },
+  "2020-10-12": {
+    "a": [
+      "Daragaluska leves",
+      "Sertés pörkölt",
+      "Sárgaborsó főzelék",
+      "Teljes kiőrlésű kenyér",
+      "Alma"
+    ],
+    "b": [
+      "Daragaluska leves",
+      "Sertéssült",
+      "Tört burgonya",
+      "Csalamádé",
+      "Alma"
+    ]
+  },
+  "2020-10-16": {
+    "a": [
+      "Zöldség krémleves",
+      "Leves gyöngy",
+      "Rántott csirkemell",
+      "Petrezselymes rizs",
+      "Vegyes saláta"
+    ],
+    "b": [
+      "Zöldség krémleves",
+      "Leves gyöngy",
+      "Brassói csirke aprópecsenye",
+      "Vegyes saláta"
+    ]
+  },
+  "2020-10-13": {
+    "a": ["Karalábéleves", "Bolognai sertés ragu", "Spagetti", "Reszelt sajt"],
+    "b": ["Karalábéleves", "Ananászos csirkeragu", "Párolt rizs"]
+  },
+  "2020-10-14": {
+    "a": [
+      "Zsurmóka leves",
+      "Csirkemáj rizottó",
+      "Uborkasaláta",
+      "Almás kevert sütemény"
+    ],
+    "b": [
+      "Zsurmóka leves",
+      "Sertés fasírt",
+      "Kelkáposzta főzelék",
+      "Félbarna kenyér",
+      "Almás kevert sütemény"
+    ]
+  },
+  "2020-10-15": {
+    "a": ["Magyaros zöldbableves", "Kolbászos rakott burgonya", "Cékla"],
+    "b": ["Magyaros zöldbableves", "Csirkepaprikás", "Szarvacska tészta"]
+  },
+  "2020-10-20": {
+    "a": [
+      "Lebbencsleves",
+      "Sült virsli",
+      "Zöldborsófőzelék",
+      "Teljes kiőrlésű kenyér"
+    ],
+    "b": [
+      "Lebbencsleves",
+      "Baconos csirkemáj",
+      "Póréhagymás rizs",
+      "Csemege uborka"
+    ]
+  },
+  "2020-10-21": {
+    "a": ["Sertés húsgombóc leves", "Aranygaluska", "Vaníliás öntet", "Alma"],
+    "b": ["Sertés húsgombóc leves", "Káposztás kocka", "Alma"]
+  },
+  "2020-10-22": {
+    "a": [
+      "Gyümölcsleves",
+      "Panírozott halrudacska",
+      "Petrezselymes rizs",
+      "Tartármártás"
+    ],
+    "b": [
+      "Gyümölcsleves",
+      "Gyros csirkecsíkok",
+      "Pirított burgonya",
+      "Friss saláta",
+      "Joghurt öntet"
+    ]
+  },
+  "2020-10-19": {
+    "a": [
+      "Tárkonyos zöldség leves",
+      "Tarhonyás csirke hús",
+      "Lilakáposzta saláta"
+    ],
+    "b": ["Tárkonyos zöldség leves", "Chilis bab", "Félbarna kenyér"]
+  },
+  "2020-10-23": { "a": ["ÜNNEP"], "b": [] },
+  "2020-10-26": { "a": ["Őszi szünet"], "b": [] },
+  "2020-10-27": { "a": ["Őszi szünet"], "b": [] },
+  "2020-10-28": { "a": ["Őszi szünet"], "b": [] },
+  "2020-10-29": { "a": ["Őszi szünet"], "b": [] },
+  "2020-10-30": { "a": ["Őszi szünet"], "b": [] }
+}
