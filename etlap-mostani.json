@@ -1,0 +1,262 @@
+{
+  "from": "2020-11-02",
+  "to": "2020-12-04",
+  "hetiEtlap": {
+    "2020-11-04": {
+      "a": [
+        "Tarhonya leves",
+        "Csirkepörkölt",
+        "Tökfőzelék",
+        "Teljes kiőrlésű kenyér",
+        "Alma"
+      ],
+      "b": ["Tarhonya leves", "Zöldborsós sertés ragu", "Tört burgonya", "Alma"]
+    },
+    "2020-11-02": {
+      "a": [
+        "Vajas galuska leves",
+        "Sertéssült",
+        "Paradicsomos káposztafőzelék",
+        "Teljes kiőrlésű kenyér"
+      ],
+      "b": ["Vajas galuska leves", "Pestos csirkemell", "Párolt rizs"]
+    },
+    "2020-11-03": {
+      "a": [
+        "Tojásleves",
+        "Zöldséges sertés vagdalt",
+        "Burgonyapüré",
+        "Csemege uborka"
+      ],
+      "b": ["Tojásleves", "Rakott karfiol"]
+    },
+    "2020-11-06": {
+      "a": [
+        "Szilvaleves",
+        "Rántott halfilé",
+        "Zöldséges rizs",
+        "Amerikai káposztasaláta"
+      ],
+      "b": ["Szilvaleves", "Hentes sertés tokány", "Tarhonya"]
+    },
+    "2020-11-05": {
+      "a": ["Csirke raguleves", "Gránátos kocka", "Cékla"],
+      "b": ["Csirke raguleves", "Almás batyu"]
+    },
+    "2020-11-10": {
+      "a": [
+        "Zeller krémleves",
+        "Leves gyöngy",
+        "Barbecue csirkeragu",
+        "Bulgur",
+        "Alma"
+      ],
+      "b": [
+        "Zeller krémleves",
+        "Leves gyöngy",
+        "Sertéssült",
+        "Parasztos burgonya",
+        "Cékla",
+        "Alma"
+      ]
+    },
+    "2020-11-09": {
+      "a": [
+        "Reszelt tésztaleves",
+        "Főtt tojás",
+        "Sóskamártás",
+        "Főtt burgonya"
+      ],
+      "b": ["Reszelt tésztaleves", "Erdélyi rakott káposzta"]
+    },
+    "2020-11-11": {
+      "a": [
+        "Babgulyás sertéshússal",
+        "Darás metélt",
+        "Gyümölcs öntet",
+        "Teljes kiőrlésű kenyér"
+      ],
+      "b": ["Babgulyás sertéshússal", "Tejberizs", "Fahéjas szórat"]
+    },
+    "2020-11-12": {
+      "a": [
+        "Citromos kerti leves",
+        "Resztelt csirkemáj",
+        "Tört burgonya",
+        "Csemege uborka"
+      ],
+      "b": ["Citromos kerti leves", "Bácskai rizses hús", "Csemege uborka"]
+    },
+    "2020-11-13": {
+      "a": [
+        "Kakukkfüves gombaleves",
+        "Rántott csirkecomb filé",
+        "Rizibizi",
+        "Vegyes saláta"
+      ],
+      "b": ["Kakukkfüves gombaleves", "Tejszínes húsos penne"]
+    },
+    "2020-11-17": {
+      "a": [
+        "Hagyma krémleves",
+        "Kenyérkocka",
+        "Pincepörkölt",
+        "Csalamádé",
+        "Teljes kiőrlésű kenyér"
+      ],
+      "b": [
+        "Hagyma krémleves",
+        "Kenyérkocka",
+        "Fűszeres sertés aprópecsenye",
+        "Lencsefőzelék",
+        "Teljes kiőrlésű kenyér"
+      ]
+    },
+    "2020-11-16": {
+      "a": [
+        "Hamis gulyásleves",
+        "Dinó szelet",
+        "Finomfőzelék",
+        "Teljes kiőrlésű kenyér"
+      ],
+      "b": ["Hamis gulyásleves", "Rántott csirkemáj", "Párolt rizs", "Cékla"]
+    },
+    "2020-11-18": {
+      "a": [
+        "Frankfurti leves",
+        "Szilvatöltelékes gombóc",
+        "Fahéjas szórat",
+        "Alma"
+      ],
+      "b": ["Frankfurti leves", "Mákos metélt", "Alma"]
+    },
+    "2020-11-19": {
+      "a": [
+        "Paradicsomleves",
+        "Sertés vagdalt",
+        "Kukoricás rizs",
+        "Tzatziki saláta"
+      ],
+      "b": ["Paradicsomleves", "Bakonyi sertésragu", "Galuska"]
+    },
+    "2020-11-20": {
+      "a": ["Vegyes zöldségleves", "Vadas sertés ragu", "Makaróni tészta"],
+      "b": [
+        "Vegyes zöldségleves",
+        "Párizsi csirkecomb filé",
+        "Póréhagymás rizs",
+        "Vegyes saláta"
+      ]
+    },
+    "2020-11-23": {
+      "a": [
+        "Daragaluska leves",
+        "Sertés pörkölt",
+        "Sárgaborsó főzelék",
+        "Teljes kiőrlésű kenyér",
+        "Alma"
+      ],
+      "b": [
+        "Daragaluska leves",
+        "Sertéssült",
+        "Tört burgonya",
+        "Csalamádé",
+        "Alma"
+      ]
+    },
+    "2020-11-27": {
+      "a": [
+        "Zöldség krémleves",
+        "Leves gyöngy",
+        "Rántott csirkemell",
+        "Petrezselymes rizs",
+        "Vegyes saláta"
+      ],
+      "b": [
+        "Zöldség krémleves",
+        "Leves gyöngy",
+        "Brassói csirke aprópecsenye",
+        "Vegyes saláta"
+      ]
+    },
+    "2020-11-24": {
+      "a": [
+        "Tejfölös karalábéleves",
+        "Bolognai halragu",
+        "Spagetti",
+        "Reszelt sajt"
+      ],
+      "b": ["Tejfölös karalábéleves", "Ananászos csirkeragu", "Párolt rizs"]
+    },
+    "2020-11-25": {
+      "a": ["Csirkemáj rizottó", "Uborkasaláta", "Almás kevert sütemény"],
+      "b": [
+        "Sertés vagdalt",
+        "Kelkáposzta főzelék",
+        "Félbarna kenyér",
+        "Almás kevert sütemény"
+      ]
+    },
+    "2020-11-26": {
+      "a": ["Magyaros zöldbableves", "Kolbászos rakott burgonya", "Cékla"],
+      "b": ["Magyaros zöldbableves", "Csirkepaprikás", "Szarvacska tészta"]
+    },
+    "2020-12-03": {
+      "a": [
+        "Csontleves",
+        "Húsgombóc",
+        "Paradicsommártás",
+        "Főtt burgonya",
+        "Teljes kiőrlésű kenyér"
+      ],
+      "b": [
+        "Csontleves",
+        "Sertésszelet lilahagymás",
+        "sajtkrémmel",
+        "Zöldséges rizs"
+      ]
+    },
+    "2020-12-04": {
+      "a": [
+        "Körteleves",
+        "Sajttal töltött rántott halfilé",
+        "Petrezselymes rizs",
+        "Amerikai káposztasaláta",
+        "Mikulás desszert"
+      ],
+      "b": ["Körteleves", "Gyros tál", "Mikulás desszert"]
+    },
+    "2020-11-30": {
+      "a": [
+        "Tárkonyos zöldség leves",
+        "Csirkepörkölt",
+        "Szarvacska tészta",
+        "Csalamádé"
+      ],
+      "b": [
+        "Tárkonyos zöldség leves",
+        "Sertés fasírt",
+        "Lencsefőzelék",
+        "Félbarna kenyér"
+      ]
+    },
+    "2020-12-01": {
+      "a": [
+        "Lebbencsleves",
+        "Stefánia vagdalt",
+        "Zöldborsófőzelék",
+        "Teljes kiőrlésű kenyér"
+      ],
+      "b": [
+        "Lebbencsleves",
+        "Csikós sertés tokány",
+        "Párolt rizs",
+        "Csemege uborka"
+      ]
+    },
+    "2020-12-02": {
+      "a": ["Sertésmájgaluska leves", "Mákos guba", "Vaníliás öntet", "Alma"],
+      "b": ["Sertésmájgaluska leves", "Túrós csusza", "Alma"]
+    }
+  }
+}
